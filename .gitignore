@@ -1,0 +1,4 @@
+# Local scratch
+node_modules/
+*.log
+.DS_Store
