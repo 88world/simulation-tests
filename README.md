@@ -3,6 +3,8 @@
 Five real-time simulations running on WebGL 2 in the browser. No dependencies, no
 build step, no CDN — open `index.html` and it runs.
 
+**Live:** <https://88world.github.io/simulation-tests/>
+
 | Rig | Method | What it actually does |
 | --- | --- | --- |
 | **Fur** | Shell rendering | 64 concentric shells of one mesh, instanced. A baked strand field decides which texels survive at each shell height; wind and gravity bend each strand as a cantilever. |
